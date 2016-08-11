@@ -3,6 +3,6 @@ def even(n):
     if (n % 2 == 0):
         return "Even"
     else:
-        return "Zero"
+        return "Odd"
 
 print even(n)
